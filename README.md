@@ -1,17 +1,16 @@
 <a id="readme-top"></a>
 
-#Title
+# Title
 
 Queer City
 
- 
-##About
+## About
 
 Queer City is an interactive journey through the recent history of the struggle between dominant social structures of patriarchy and heteronormativity on the one hand, and the tactical   existence of marginalized LGBTQ+ communities of Bangladesh, on the other!The project is created through Twine to archive the lived experiences of the Bangladeshi urban queer people and document their everyday struggles as they themselves move from an activist rights based social justice framework to a more tactical framework around digital archival resistance. This is where the affordances of Twine become most prominent towards negotiating visibility in terms of the production, distribution, and archiving  of queer histories, cultures, practices, and memories, especially in a country like Bangladesh, where coming out as queer visibly can lead to killing, incarceration, or social ostracism.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
-##Files
+## Files
 
 The Cover Page.jpeg file is an image of the workshop banner that was used in a version of the original twine workshop. This workshop banner is not from the original twine workshop that was done with LGBTQ+ community members in Bangladesh. That workshop did not have any banners. This one is from the second iteration of the workshop that was done with LGBTQ+ community members and allies in the United States.
 
@@ -33,13 +32,13 @@ All files including updated files can be accessed through the repository here - 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-###Authors
+### Authors
 
 Mohammed Rashid  - @@moham_edia - rashid.mizan37@gmail.com
 
 Author GitHub Link: https://github.com/rashidmizan
 
-##Acknowledgments
+## Acknowledgments
 
 I want to thank my community in Bangladesh who struggle everyday to dream a more inclusive future all around the world.
 I also want to thank The Fashioning Circuits Research Collective for introducing me to the world of digital humanities and electronic storytelling.
