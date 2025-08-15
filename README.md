@@ -32,7 +32,7 @@ All files including updated files can be accessed through the repository here - 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Authors
+### Author
 
 Mohammed Rashid  - @@moham_edia - rashid.mizan37@gmail.com
 
